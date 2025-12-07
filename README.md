@@ -28,7 +28,6 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
-INCLUDE YOUR OUTPUT IMAGE
 ![alt text](image.png)
 
 ## RESULT
